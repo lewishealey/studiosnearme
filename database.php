@@ -9,13 +9,13 @@ class DB
 	private $hostname = 'localhost'; // Put your host name here
 
 	/*** mysql username ***/
-	private $username = 'studiosn_admin'; // Put your MySQL User name here
+	private $username = 'username'; // Put your MySQL User name here
 
 	/*** mysql password ***/
-	private $password = 'Nobble123'; // Put Your MySQL Password here
+	private $password = 'password'; // Put Your MySQL Password here
 
 	/*** mysql password ***/
-	private $dbName = 'studiosn_me'; // Put Your MySQL Database name here
+	private $dbName = 'database'; // Put Your MySQL Database name here. Example data is supplied
 
 
 	/*** database resource ***/
